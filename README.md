@@ -1,243 +1,30 @@
-<!-- <h1 align="center">ज्वजलपा 👋🏿, जिगू नां Purna Shrestha खः।</h1> -->
+<h1 align="center">Hi 👋, I'm Sajan Maharjan</h1>
+<h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<!-- $${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yellowflash132&label=Profile%20views&color=0e75b6&style=flat" alt="yellowflash132" /> </p>
 
-> text$${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yellowflash132" alt="yellowflash132" /></a> </p>
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-``` -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div id="top"></div>
+- 🔭 I’m currently working on **Longtail e-media**
 
-<h1 align="center">
-  <img
-      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=450&lines=Welcome+To+My+Profile;नमस्कार 🙏🏿! म Purna Shrestha;A+Fullstack+Developer;"
-      alt="नमस्कार 🙏🏿! म Purna Shrestha"
-  />
-  <br/>
-  <div>
-      <!-- <img
-        alt="Link to my GitHub"
-        src="https://img.shields.io/github/followers/Yellowflash132?style=for-the-badge&labelColor=7E3ACE&color=000000"
-      /> -->
-    <img
-        alt="github repos"
-        src="https://badges.strrl.dev/repos/Yellowflash132?color=000000&style=for-the-badge&labelColor=7E3ACE"
-    />
-   <img
-        alt="commits today"
-        src="https://badges.strrl.dev/commits/daily/Yellowflash132?color=000000&style=for-the-badge&labelColor=7E3ACE"
-    />
-    <img
-        alt="commits this week"
-        src="https://badges.strrl.dev/commits/weekly/Yellowflash132?color=000000&style=for-the-badge&labelColor=7E3ACE"
-    />
-    <img
-        alt="commits this month"
-        src="https://badges.strrl.dev/commits/monthly/Yellowflash132?color=000000&style=for-the-badge&labelColor=7E3ACE"
-    />
-   <img
-        alt="all commits"
-        src="https://badges.strrl.dev/commits/all/Yellowflash132?color=000000&style=for-the-badge&labelColor=7E3ACE"
-    />
-  </div>
-</h1>
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://purna.pages.dev/assets/hero_cutout-BwGEW87y.png"
-/>
-<br/>
+- 🌱 I’m currently learning **React**
 
-<img
-  src="https://komarev.com/ghpvc/?username=Yellowflash132&label=Profile%20views&color=7E3ACE&style=for-the-badge"
-  alt="Profile Views"
-/>
+- 👯 I’m looking to collaborate on **Purna Shrestha**
 
-- 🌱 I'm currently working as a **Graphic Designer**
-<!-- - 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np) -->
-<!-- - 📫 How to reach me **purnashrestha0310@gmail.com** -->
+- 📫 How to reach me **itsmesajanmaharajan@gmail.com**
 
-<!-- # $\mathfrak{{\color{#9f4bff}Connect\ with\ me:}}\ $ -->
-
-<!-- $\mathfrak{{\color{#9f4bff}Connect \space \color{#ffffff} with \space \color{#9f4bff} me:}}\ $ -->
-
-<!-- # Connect with me: -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=260&lines=Connect+With+Me+:" alt="Connect with me:"/>
-
-<!-- $${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
-
-$${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/purna-shrestha-0310ps" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://codepen.io/purnaaa" target="blank">
-    <img src="https://skillicons.dev/icons?i=codepen" />
-  </a>
 </p>
 
-<!-- # ${{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<!-- # $\mathcal{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yellowflash132&show_icons=true&locale=en&layout=compact" alt="yellowflash132" /></p>
 
-<!-- # $\mathbb{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yellowflash132&show_icons=true&locale=en" alt="yellowflash132" /></p>
 
-<!-- # $\mathfrak{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yellowflash132&" alt="yellowflash132" /></p>
 
-<!-- # Languages and Tools: -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=315&lines=Languages+And+Tools+:" alt="Languages And Tools:"/>
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,js,react,nodejs,php,mysql,c,cpp,py,ps,figma,ae,powerpoint"
-/>
-
-<!-- # $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $ -->
-
-<!-- # Stats and Streaks: -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=270&lines=Stats+And+Streaks+:" alt="Stats And Streaks:"/>
-
-<!--Previous Stats and Streaks-->
-<!-- <p>
-    <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=Yellowflash132&show_icons=true&locale=en&theme=midnight-purple"
-    alt="Yellowflash132 github stats"
-  />
-  <img
-  align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Yellowflash132&theme=midnight-purple"
-    alt="Yellowflash132 github streaks"
-  />
-</p> -->
-<!--Previous Stats and Streaks-->
-<div align="center">
-<!--   <img
-    height="180em"
-    src="https://github-readme-stats-Carol42.vercel.app/api?username=Yellowflash132&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true"
-    alt="my github stats"
-    /> -->
-  <img
-    height="180em"
-    src="https://github-readme-stats-Carol42.vercel.app/api?username=Yellowflash132&count_private=true&show_icons=true&theme=midnight-purple&bg_color=0,130F40,000000&hide_border=true&hide_title=true"
-    alt="github stats"
-  />
-    <img
-    height="180em"
-    src="https://streak-stats.demolab.com/?user=Yellowflash132&theme=midnight-purple&hide_border=true"
-    alt="streak stats"
-  />
-</div>
-<br />
-<div align="center">
- <img
-    alt="Commit activity"
-    src="https://github-profile-trophy.vercel.app/?username=Yellowflash132&theme=darkhub&column=9&no-frame=true&margin-w=15&margin-h=15"
-  />
-<!--  <img
-    alt="Commit activity"
-    src="https://github-profile-trophy.vercel.app/?username=Yellowflash132&theme=juicyfresh&column=5&margin-w=15&margin-h=15"
-  /> -->
-</div>
-<br />
-<div align="center">
-  <img
-    alt="GitHub repo size"
-    src="https://img.shields.io/github/repo-size/Yellowflash132/Yellowflash132?color=9f4bff&logo=github&style=for-the-badge&logoColor=9f4bff"
-  />
-  <img
-    alt="GitHub forks"
-    src="https://img.shields.io/github/forks/Yellowflash132/Yellowflash132?color=9f4bff&logo=github&style=for-the-badge&logoColor=9f4bff"
-  />
-  <img
-    alt="GitHub Repo stars"
-    src="https://img.shields.io/github/stars/Yellowflash132/Yellowflash132?color=9f4bff&logo=github&style=for-the-badge&logoColor=9f4bff"
-  />
-  <img
-    alt="Last commit"
-    src="https://img.shields.io/github/last-commit/Yellowflash132/Yellowflash132?color=9f4bff&logo=git&logoColor&style=for-the-badge"
-  />
-  <img
-    alt="Commit activity"
-    src="https://img.shields.io/github/commit-activity/m/Yellowflash132/Yellowflash132?color=9f4bff&logo=git&logoColor&style=for-the-badge"
-  />
-</div>
-<br />
-
-<!--
-<details>
-<summary>Click here for a cute surprise! :3</summary>
-<img src="https://cat-gifs.cyclic.app">
-</details>
--->
-
-
-<!--
-<details align="center">
-  <summary>My GitHub stats</summary>
-  <br />
-  <div align="center">
-    <img
-      alt="github achievements"
-      src="https://github-profile-trophy.vercel.app/?username=Yellowflash132&theme=darkhub&no-frame=true&column=10"
-    />
-  </div>
-  -->
-  <!--Most Used Languages-->
-  <!-- <img height=180em src="https://github-readme-stats-Carol42.vercel.app/api/top-langs/?username=Yellowflash132&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" /> -->
-  <!--Most Used Languages-->
-  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> </a> -->
-
-  <!--Github Contributor Stats-->
-  <!-- <img
-      src="https://github-contributor-stats.vercel.app/api?username=Yellowflash132&&theme=midnight-purple"
-      alt="contribution stats"
-    /> -->
-  <!--Github Contributor Stats-->
-  <!--     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup> -->
-  <!--
-</details>
--->
-<br/>
-
-<!--
-<details align="center">
-  <summary>Profile visitors</summary>
-  <br />
-  <div align="center">
-    <img
-      alt="visitors counter"
-      src="https://profile-counter.glitch.me/Yellowflash132/count.svg"
-    />
-  </div>
-</details>
--->
-
-<div align="center">
-    <img
-      alt="Thanks for your visit"
-      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=9f4bff&center=true&vCenter=true&width=635&lines=Thanks+for+your+visit!;Let's+create+something+amazing+together+!;"
-    />
-</div>
-
-<div align="right">
-<!--   <a href="#top"
-    ><img
-      src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo&hide_border=true&hide_title=true"
-      alt="back to top"
-  /></a> -->
-  
-  <a href="#top"
-    ><img
-      src="https://img.shields.io/badge/Back_To_Top-blueviolet?style=for-the-badge"
-      alt="back to top"
-  /></a>
-</div>
