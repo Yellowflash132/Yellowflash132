@@ -60,9 +60,9 @@
   alt="Profile Views"
 />
 
-- 🌱 I'm currently working as a **React Developer**
-- 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np)
-- 📫 How to reach me **purnashrestha0310@gmail.com**
+- 🌱 I'm currently working as a **Graphic Designer**
+<!-- - 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np) -->
+<!-- - 📫 How to reach me **purnashrestha0310@gmail.com** -->
 
 <!-- # $\mathfrak{{\color{#9f4bff}Connect\ with\ me:}}\ $ -->
 
